@@ -1,0 +1,13 @@
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\simagent_white.exe.config
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\simagent_white.exe
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\simagent_white.pdb
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\Castle.Core.dll
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\TestStack.White.dll
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\Castle.Core.xml
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\TestStack.White.pdb
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\bin\Debug\TestStack.White.xml
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\obj\Debug\simagent_white.csprojAssemblyReference.cache
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\obj\Debug\simagent_white.csproj.CoreCompileInputs.cache
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\obj\Debug\simagent_white.csproj.CopyComplete
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\obj\Debug\simagent_white.exe
+C:\Users\sjones6\Documents\white_SimAgent\simagent_white\simagent_white\obj\Debug\simagent_white.pdb
